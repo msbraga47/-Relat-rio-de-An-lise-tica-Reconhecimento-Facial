@@ -57,6 +57,6 @@ Tensão entre inovação e justiça não pode ser ignorada. O reconhecimento fac
 
 #  Dados Reais — Gráfico Histórico de Erros
 
-![Evolução dos Algoritmos de Reconhecimento Facial](![img-68](https://github.com/user-attachments/assets/f97ba391-df18-4737-a95b-712831e88c8a))
+![Evolução dos Algoritmos de Reconhecimento Facial](img-68.jpg)
 
 Esse gráfico do NIST confirma: algoritmos estão melhorando, mas o problema de viés persiste se não houver diversidade consciente na modelagem.
